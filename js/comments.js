@@ -5,7 +5,7 @@ function addComment(event){
   var name = $('#name').val();
   var comment = $('#comment').val();
   $('#comments ul').append(
-    '<li><div>'+ name + '</div><div>' + '"'+ comment + '"</div></li><br>'
+    '<li><div>'+ name + '</div><div>' + '"'+ comment +'"</div></li><br>'
   );
 }
 
