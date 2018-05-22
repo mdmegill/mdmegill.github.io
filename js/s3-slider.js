@@ -2,11 +2,11 @@
 	s3Slider
 
   Current version:
-    Michael Grosser -> http://pragmatig.wordpress.com
+    Michael Grosser -> https://pragmatig.wordpress.com
 
   Original:
-    Developped By: Boban Karišik -> http://www.serie3.info/
-          CSS Help: Mészáros Róbert -> http://www.perspectived.com/
+    Developped By: Boban Karišik -> https://www.serie3.info/
+          CSS Help: Mészáros Róbert -> https://www.perspectived.com/
 
 	Copyright: Redistribute, but keep infos at the top.
 ------------------------------------------------------------------------- */
